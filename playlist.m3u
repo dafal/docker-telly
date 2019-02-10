@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,|BE| LA UNE
+http://streamlink-laune:8080/
+#EXTINF:-1,|BE| LA DEUX
+http://streamlink-ladeux:8080/
+#EXTINF:-1,|BE| LA TROIS
+http://streamlink-latrois:8080/
+#EXTINF:-1,|FR| FRANCE 2
+http://streamlink-france2:8080/
+#EXTINF:-1,|FR| FRANCE 3
+http://streamlink-france3:8080/
+#EXTINF:-1,|FR| FRANCE 4
+http://streamlink-france4:8080/
+#EXTINF:-1,|FR| FRANCE 5
+http://streamlink-france5:8080/
+#EXTINF:-1,|FR| FRANCE O
+http://streamlink-franceo:8080/
+#EXTINF:-1,|FR| TV5 MONDE
+http://streamlink-tv5:8080/
+#EXTINF:-1,|FR| Euronews FR
+http://streamlink-euronews:8080/
+#EXTINF:-1,|FR| Arte
+http://streamlink-arte:8080/
+
+
+
+
